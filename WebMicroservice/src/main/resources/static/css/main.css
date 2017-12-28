@@ -1,0 +1,171 @@
+.input_textbox {
+	border: 1px solid #bab1ba;
+	background-color:#4177ad;
+	padding-bottom: 30px;
+	width: 600px;
+	text-align: center;
+	margin-left: auto ;
+  margin-right: auto ;
+  moz-box-shadow: 3px 4px 0px 0px #899599;
+	-webkit-box-shadow: 3px 4px 0px 0px #899599;
+	box-shadow: 3px 4px 0px 0px #899599;
+	
+}
+#logo_image{
+width:30px;
+height:10px;
+background-image:url();
+}
+img{
+		width:190px;
+		height: auto;
+}
+img{
+	margin-left: 50px;
+ vertical-align: middle; 
+ }
+ 
+
+.input_textbox input[type="text"] {
+	display: inline-block;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	margin: 30px;
+	width: 350px;
+	padding: 20px;
+	border: 1px solid #b7b7b7;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	font: normal 24px/normal "Times New Roman", Times, serif;
+	color: rgba(170, 166, 173, 0.69); text-indent : 3px;
+	-o-text-overflow: clip;
+	text-overflow: clip;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+	background: rgba(252, 252, 252, 1);
+	-webkit-box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.2) inset;
+	box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.2) inset;
+	text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.66);
+	-webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+	-moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+	-o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+	transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+	text-indent: 3px;
+}
+
+body {
+	font: bold 12px Arial, Helvetica, sans-serif;
+	margin: 40px;
+	padding: 0;
+	min-width: 960px;
+	color: #bbbbbb;
+	}
+
+h1 {
+	margin: 30px;
+	margin-top: 100px;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+	color: Blue;
+	text-align:center;
+}
+
+.input_textbox input[type="submit"]:hover {
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #378de5
+		), color-stop(1, #79bbff));
+	background: -moz-linear-gradient(top, #378de5 5%, #79bbff 100%);
+	background: -webkit-linear-gradient(top, #378de5 5%, #79bbff 100%);
+	background: -o-linear-gradient(top, #378de5 5%, #79bbff 100%);
+	background: -ms-linear-gradient(top, #378de5 5%, #79bbff 100%);
+	background: linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#378de5',
+		endColorstr='#79bbff', GradientType=0);
+	background-color: #378de5;
+}
+
+.input_textbox input[type="submit"]:active {
+	position: relative;
+	top: 1px;
+}
+
+.input_textbox input[type="submit"] {
+	-moz-box-shadow: 3px 4px 0px 0px #1564ad;
+	-webkit-box-shadow: 3px 4px 0px 0px #1564ad;
+	box-shadow: 3px 4px 0px 0px #1564ad;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #79bbff
+		), color-stop(1, #378de5));
+	background: -moz-linear-gradient(top, #79bbff 5%, #378de5 100%);
+	background: -webkit-linear-gradient(top, #79bbff 5%, #378de5 100%);
+	background: -o-linear-gradient(top, #79bbff 5%, #378de5 100%);
+	background: -ms-linear-gradient(top, #79bbff 5%, #378de5 100%);
+	background: linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff',
+		endColorstr='#378de5', GradientType=0);
+	background-color: #79bbff;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #337bc4;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-family: Georgia;
+	font-size: 21px;
+	font-weight: bold;
+	padding: 14px 26px;
+	text-decoration: none;
+	text-shadow: 0px 1px 0px #528ecc;
+	margin-left: 300px;
+	margin-top: 10px;
+}
+.footer {
+	margin-top: 50px;
+	font-family: arial;
+	font-size: 16px;
+	font-weight: bold;
+	word-spacing: 2px;
+}
+
+
+.footer {
+	margin-top: 50px;
+	font-family: arial;
+	font-size: 16px;
+	font-weight: bold;
+	word-spacing: 2px;
+}
+table, td, th {    
+    border: 2px solid #ddd;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th{
+font: bold 14px Arial, Helvetica, sans-serif ;
+color:  #262626;
+padding: 15px;
+}
+td {
+    padding: 15px;
+    color:  #f2f2f2;
+}
+
+h2 {
+	margin: 20px;
+	margin-top: 80px;
+	letter-spacing: 1px;
+	word-spacing: 1px;
+	color:  #333333;
+	text-align:center;
+	font: bold;
+}
+#new
+{
+	widht : 100px;
+	height:100px;
+}
